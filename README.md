@@ -1,0 +1,2 @@
+# proxmox_hookscript_pdns
+ProxmoxでVM開始時にPowerDNSにレコードを作成するスクリプト
